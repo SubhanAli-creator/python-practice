@@ -1,3 +1,4 @@
+#Sum of All Digits
 def sum_of_digit(digit):
     digit = abs(digit)
     total = 0
